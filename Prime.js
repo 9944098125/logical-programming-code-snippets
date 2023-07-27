@@ -10,6 +10,6 @@ function isPrime(n) {
   return true;
 }
 
-let myNumber = 7;
+let myNumber = 10;
 let isMyNumberPrime = isPrime(myNumber);
 console.log(isMyNumberPrime);
